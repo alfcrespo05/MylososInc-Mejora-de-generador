@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ecocombustible
+  - Madera
+  - Piedra
+  - MesaProcesadoMadera
+  - MesaProcesadoPiedra
+  - Hilo
+  - MesaProcesadoHilo
+  - Generador
+  - Deposito
+  - Cinta
+  - Gilda
+  - Recursos-Snake
+  - Border
+  - Gonzalo
+  - OM
+  - Federico
+  - Border Eliminado
+  - GAmecontroller
+  - RF
+  - BSF
+  - GCR
+  - GhildaManager
+  - GPQ
+  - GildaMartillo
+  - GildaEngranaje
+  - GildaDestornillador
+  - GB
+  - ERF
+  - Cactus
+  - FlorRosa
+  - FlorAzul
+  - FlorMorada
+  - FlorNegra
+  - PlantaConEspinas
+  - Rosa
+  - Valeriana
+  - CabezaFede
+  - FedeEco
+  - FedePiedra
+  - FedeHilo
+  - FedeMadera
+  - FedeEngranaje
+  - FedeMartillo
+  - FedeDestornillador
+  - OM2
+  - OM3
+  - SCGO
+  - Ghilda
+  - BalaOM
+  - BalaGO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
